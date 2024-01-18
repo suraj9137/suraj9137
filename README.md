@@ -1,12 +1,4 @@
-- 👋 Hi, I’m suraj.
-- 👀 I’m interested in Cybersecurity.
-- 🌱 I’m currently learning Penetration Testing
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
-
-<!---
-suraj9137/suraj9137 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+I am a student at Sanskriti University with a major in Computer Science. I have a passion for Cyber Security and information technology. 
+I have used computer programming since I was in grade school. This passion has given me the ability to and develop programs for a multitude of things,programming languages, and databases.
+Technology excites me and I am awe of the change it drives in the world. 
+Certain skills that I have worked with include Data structure and Algorithms(Python), Linux Operating System, Networking ,Penetration Testing.And what I might lack in skills I make up for with my determination to learn.
